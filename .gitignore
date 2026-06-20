@@ -1,0 +1,6 @@
+# Virtual environment
+.venv/
+
+# Dataset
+rated/
+trimmed_data/
